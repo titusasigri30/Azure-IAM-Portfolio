@@ -3,7 +3,7 @@
 ## Project Overview
 
 This project establishes the Microsoft Entra ID identity foundation for
-Naamalgu Financial Services, used throughout this
+Ability_Enterprise, a Financial Services organization used throughout this
 IAM portfolio.
 
 The project demonstrates the initial design of users, groups, identity
@@ -11,7 +11,7 @@ structure, device identity, and access-management principles.
 
 ## Business Scenario
 
-Naamalgu Financial Services with approximately
+Ability_Enterprise with approximately
 500 employees.
 
 The organization contains:
