@@ -7,9 +7,9 @@ This repository documents a hands-on Microsoft Entra ID and Azure IAM
 laboratory designed to demonstrate practical identity and access
 management skills.
 
-The portfolio uses "Naamalgu Financial Services", to simulate realistic enterprise IAM scenarios.
+The portfolio uses Ability_Enterprise, a Financial Services organization to simulate realistic enterprise IAM scenarios.
 ## Organization
-**Naamalugu Financial Services**
+**Ability_Enterprise**
 - Approximately 500 employees
 - IT, HR, Finance, and Sales departments
 - External contractors
