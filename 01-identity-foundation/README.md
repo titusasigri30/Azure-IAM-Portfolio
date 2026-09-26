@@ -3,7 +3,7 @@
 ## Project Overview
 
 This project establishes the Microsoft Entra ID identity foundation for
-Contoso Financial Services, a fictional organization used throughout this
+Naamalgu Financial Services, used throughout this
 IAM portfolio.
 
 The project demonstrates the initial design of users, groups, identity
@@ -11,7 +11,7 @@ structure, device identity, and access-management principles.
 
 ## Business Scenario
 
-Contoso Financial Services is a fictional organization with approximately
+Naamalgu Financial Services with approximately
 500 employees.
 
 The organization contains:
