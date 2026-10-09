@@ -1,0 +1,5 @@
+| Lifecycle Event | User Action       | Group Action                     | License Action             | Application Action                 | Access Action      |
+| --------------- | ----------------- | -------------------------------- | -------------------------- | ---------------------------------- | ------------------ |
+|   Joiner        | Create user       | Add department group             | Assign license             | Assign required apps               | Apply CA/MFA       |
+|   Mover         | Update department | Remove old group + add new group | Modify license if required | Remove old access + add new access | Re-evaluate access |
+|   Leaver        | Disable account   | Remove group memberships         | Reclaim license            | Remove application access          | Revoke sessions    |
