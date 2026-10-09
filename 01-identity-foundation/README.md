@@ -3,7 +3,7 @@
 ## Project Overview
 
 This project establishes the Microsoft Entra ID identity foundation for
-Ability_Enterprise, a Financial Services organization used throughout this
+Ability_Enterprise, mimicking a Financial Services organization used throughout this
 IAM portfolio.
 
 The project demonstrates the initial design of users, groups, identity
