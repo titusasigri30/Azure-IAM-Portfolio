@@ -26,7 +26,7 @@ The scenario is used for educational purposes. The simulated organization size d
 This portfolio aims to demonstrate the following capabilities through practical labs, documented scenarios, and testing evidence.
 Identity and Access Management
 Microsoft Entra ID users and groups
-Identity lifecycle management: Joiner, Mover, Leaver (JML)
+Identity lifecycle management: Joiner, Mover, Leaver (JML), 
 Role-Based Access Control (RBAC)
 Administrative units and least privilege
 License assignment, modification, reporting, automation, and reclamation
