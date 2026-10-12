@@ -1,8 +1,8 @@
-Azure IAM Portfolio
+**Azure IAM Portfolio**
 
 A hands-on Microsoft Entra ID and Azure Identity and Access Management (IAM) portfolio demonstrating identity lifecycle management, authentication, authorization, governance, privileged access, external identities, device-aware access, automation, and monitoring.
 
-Overview
+**Overview**
 
 This repository documents a practical Microsoft Entra ID and Azure IAM laboratory designed to demonstrate skills relevant to junior IAM administrator and identity support roles.
 
@@ -10,7 +10,7 @@ The laboratory uses Ability_Enterprise, a fictional financial services organizat
 
 The portfolio is developed progressively over 30 days, with an emphasis on hands-on implementation, security best practices, troubleshooting, automation, and technical documentation.
 
-Organization Scenario
+**Organization Scenario**
 
 Ability_Enterprise — Fictional Financial Services Organization
 
@@ -26,7 +26,7 @@ Identity governance and compliance requirements
 
 The scenario is used for educational purposes. The simulated organization size does not represent the number of actual users in the laboratory tenant.
 
-IAM Capabilities
+**IAM Capabilities**
 
 This portfolio aims to demonstrate the following capabilities through practical labs, documented scenarios, and testing evidence.
 
@@ -68,7 +68,7 @@ Monitoring and investigation scenarios
 
 Feature availability depends on the tenant configuration, permissions, subscription, and licensing. Any feature that cannot be deployed will be clearly identified as a design exercise or partially implemented scenario.
 
-Portfolio Approach
+**Portfolio Approach**
 
 Each project follows a practical IAM engineering workflow:
 
@@ -99,7 +99,7 @@ Projects will be added progressively as the laboratory is built. Each project wi
 10	IAM Monitoring, PowerShell & KQL	⏳ Planned
 11	End-to-End IAM Capstone	⏳ Planned
 
-Project scope
+**Project scope**
 
 Project 04 includes MFA, SSPR, Conditional Access, FIDO2, and device-aware access where supported.
 Project 06 covers SAML, WS-Federation, OAuth 2.0, and OIDC.
@@ -117,7 +117,7 @@ Videos will demonstrate actual configurations and test results where available. 
 
 Video links will be added here when recordings are published.
 
-Technologies
+**Technologies**
 Microsoft Entra ID
 Microsoft Azure
 Microsoft Graph
