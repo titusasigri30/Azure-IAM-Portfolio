@@ -27,11 +27,8 @@ This portfolio aims to demonstrate the following capabilities through practical 
 Identity and Access Management
 Microsoft Entra ID users and groups
 Identity lifecycle management: Joiner, Mover, Leaver (JML)
-
 Role-Based Access Control (RBAC)
-
 Administrative units and least privilege
-
 License assignment, modification, reporting, automation, and reclamation
 Authentication and Application Access
 Multi-Factor Authentication (MFA)
