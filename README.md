@@ -27,37 +27,37 @@ This portfolio aims to demonstrate the following capabilities through practical 
 Identity and Access Management
 Microsoft Entra ID users and groups
 Identity lifecycle management: Joiner, Mover, Leaver (JML), 
-Role-Based Access Control (RBAC)
-Administrative units and least privilege
+Role-Based Access Control (RBAC),
+Administrative units and least privilege,
 License assignment, modification, reporting, automation, and reclamation
 Authentication and Application Access
-Multi-Factor Authentication (MFA)
-Self-Service Password Reset (SSPR)
-Conditional Access and sign-in troubleshooting
-FIDO2, passkeys, and phishing-resistant authentication
+Multi-Factor Authentication (MFA),
+Self-Service Password Reset (SSPR),
+Conditional Access and sign-in troubleshooting,
+FIDO2, passkeys, and phishing-resistant authentication,
 Device identity and device-aware access, where supported
-Single Sign-On (SSO)
-SAML and WS-Federation
-OAuth 2.0 and OpenID Connect (OIDC)
-External Identities
-Microsoft Entra B2B collaboration
-External user lifecycle management
-Cross-tenant access and collaboration
-External identity provider concepts
-Azure Workload Security
-Azure Key Vault: secrets, keys, certificates, and access control
-Managed identities and passwordless workload access
-Azure RBAC and least-privilege permissions
-Identity Governance and Privileged Access
-Privileged Identity Management (PIM)
-Eligible and time-limited privileged role assignments
-Entitlement management and access packages
-Access reviews and removal of unnecessary access
-Automation and Monitoring
-Microsoft Graph PowerShell
-Identity and license reporting
-Sign-in, audit, and provisioning logs
-Log Analytics and Kusto Query Language (KQL)
+Single Sign-On (SSO),
+SAML and WS-Federation,
+OAuth 2.0 and OpenID Connect (OIDC),
+External Identities,
+Microsoft Entra B2B collaboration,
+External user lifecycle management,
+Cross-tenant access and collaboration,
+External identity provider concepts,
+Azure Workload Security,
+Azure Key Vault: secrets, keys, certificates, and access control,
+Managed identities and passwordless workload access,
+Azure RBAC and least-privilege permissions,
+Identity Governance and Privileged Access,
+Privileged Identity Management (PIM),
+Eligible and time-limited privileged role assignments,
+Entitlement management and access packages,
+Access reviews and removal of unnecessary access,
+Automation and Monitoring,
+Microsoft Graph PowerShell,
+Identity and license reporting,
+Sign-in, audit, and provisioning logs,
+Log Analytics and Kusto Query Language (KQL),
 Monitoring and investigation scenarios
 
 Feature availability depends on the tenant configuration, permissions, subscription, and licensing. Any feature that cannot be deployed will be clearly identified as a design exercise or partially implemented scenario.
