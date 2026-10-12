@@ -4,18 +4,13 @@ A hands-on Microsoft Entra ID and Azure Identity and Access Management (IAM) por
 
 **Overview**
 
-This repository documents a practical Microsoft Entra ID and Azure IAM laboratory designed to demonstrate skills relevant to junior IAM administrator and identity support roles.
-
-The laboratory uses Ability_Enterprise, a fictional financial services organization, to model realistic enterprise identity and access management scenarios.
-
-The portfolio is developed progressively over 30 days, with an emphasis on hands-on implementation, security best practices, troubleshooting, automation, and technical documentation.
+This repository documents a practical Microsoft Entra ID and Azure IAM laboratory designed to demonstrate skills relevant to junior IAM administrator and identity support roles. The laboratory uses Ability_Enterprise, a fictional financial services organization, to model realistic enterprise identity and access management scenarios. The portfolio is developed progressively over 30 days, with an emphasis on hands-on implementation, security best practices, troubleshooting, automation, and technical documentation.
 
 **Organization Scenario**
 
 Ability_Enterprise — Fictional Financial Services Organization
 
 The simulated environment represents an organization with:
-
 Approximately 500 employees in the scenario
 IT, HR, Finance, and Sales departments
 External contractors and guest users
@@ -29,7 +24,6 @@ The scenario is used for educational purposes. The simulated organization size d
 **IAM Capabilities**
 
 This portfolio aims to demonstrate the following capabilities through practical labs, documented scenarios, and testing evidence.
-
 Identity and Access Management
 Microsoft Entra ID users and groups
 Identity lifecycle management: Joiner, Mover, Leaver (JML)
@@ -71,7 +65,6 @@ Feature availability depends on the tenant configuration, permissions, subscript
 **Portfolio Approach**
 
 Each project follows a practical IAM engineering workflow:
-
 Business problem and requirements
 Architecture and design
 Prerequisites and licensing requirements
