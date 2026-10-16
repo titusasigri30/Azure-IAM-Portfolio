@@ -4,11 +4,11 @@ A hands-on Microsoft Entra ID and Azure Identity and Access Management (IAM) por
 
 **Overview**
 
-This repository documents a practical Microsoft Entra ID and Azure IAM laboratory designed to demonstrate skills relevant to junior IAM administrator and identity support roles. The laboratory uses Ability_Enterprise, a fictional financial services organization, to model realistic enterprise identity and access management scenarios. The portfolio is developed progressively over 30 days, with an emphasis on hands-on implementation, security best practices, troubleshooting, automation, and technical documentation.
+This repository documents a practical Microsoft Entra ID and Azure IAM laboratory designed to demonstrate skills relevant to junior IAM administrator and identity support roles. The laboratory uses Ability_Enterprise, a fictional Defense organization, to model realistic enterprise identity and access management scenarios. The portfolio is developed progressively over 30 days, with an emphasis on hands-on implementation, security best practices, troubleshooting, automation, and technical documentation.
 
 **Organization Scenario**
 
-Ability_Enterprise — Fictional Financial Services Organization
+Ability_Enterprise — Fictional Defense Organization
 
 The simulated environment represents an organization with:
 Approximately 500 employees in the scenario
