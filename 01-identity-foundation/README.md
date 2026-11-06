@@ -42,10 +42,10 @@ The Identity Foundation project establishes:
 | User | Department | Purpose |
 |---|---|---|
 | Alice Joe, Comfort Mills, Emma Asig| HR | HR employee |
-| Bob Morgan, Smith Jules, Joseph Derik | IT | IT administration scenario |
+| Bob Morgan, Smith Jules, Joseph Derik, Alina Breden, Eve Schules | IT | IT administration scenario |
 | Carol John, Juan Jack, Pat York | Finance | Finance employee |
 | David Ires, Brat Johnson, Mike Dutch, Zahn Chana| Sales | Sales employee |
-| Eve Schules, Myrs Deven, Alina Breden | Contractor | Contractor scenario |
+| Myrs Deven | Contractor | Contractor scenario |
 
 ## Initial Groups
 
